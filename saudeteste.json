@@ -15524,7 +15524,7 @@
                 ],
                 "summary": "Atualiza um registo de Produtor",
                 "description": "Atualiza um registro de Produtor",
-                "operationId": "put_Produtor",
+                "operationId": "put_Produtores2",
                 "requestBody": {
                     "content": {
                         "application/json": {
@@ -15777,7 +15777,7 @@
                 ],
                 "summary": "Atualiza um registo de ProfissionalCbo",
                 "description": "Atualiza um registro de ProfissionalCbo",
-                "operationId": "put_ProfissionalCbo",
+                "operationId": "put_ProfissionalCboes",
                 "requestBody": {
                     "content": {
                         "application/json": {
@@ -18033,7 +18033,7 @@
                 ],
                 "summary": "Atualiza um registo de item",
                 "description": "Atualiza um registro de item",
-                "operationId": "put_ClienteAntecedenteClinico",
+                "operationId": "put_ClienteAntecedenteClinicoItens",
                 "requestBody": {
                     "content": {
                         "application/json": {
@@ -32956,7 +32956,7 @@
                 ],
                 "summary": "Atualiza um registo de produtor",
                 "description": "Atualiza um registro de produtor",
-                "operationId": "put_Produtor",
+                "operationId": "put_Produtores",
                 "requestBody": {
                     "content": {
                         "application/json": {
