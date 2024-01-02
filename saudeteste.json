@@ -18072,7 +18072,7 @@
                 ],
                 "summary": "Cria um registo de item",
                 "description": "Cria um registro de item",
-                "operationId": "post_ClienteAntecedenteClinico",
+                "operationId": "post_ClienteAntecedenteClinico2",
                 "requestBody": {
                     "content": {
                         "application/json": {
@@ -18111,7 +18111,7 @@
                 ],
                 "summary": "Remove um registro de item",
                 "description": "Remove um registro de item",
-                "operationId": "delete_ClienteAntecedenteClinico",
+                "operationId": "delete_ClienteAntecedenteClinico2",
                 "requestBody": {
                     "content": {
                         "application/json": {
@@ -18403,7 +18403,7 @@
                 ],
                 "summary": "Atualiza um registro de antecedente parcialmente",
                 "description": "Atualiza um registro de antecedente parcialmente",
-                "operationId": "patch_ClienteAntecedenteClinico",
+                "operationId": "patch_ClienteAntecedenteClinico2",
                 "requestBody": {
                     "content": {
                         "application/json": {
@@ -22897,7 +22897,7 @@
                 ],
                 "summary": "Cria um registo de cbo",
                 "description": "Cria um registro de cbo",
-                "operationId": "post_ProfissionalCbo",
+                "operationId": "post_ProfissionalCbo2",
                 "requestBody": {
                     "content": {
                         "application/json": {
@@ -22936,7 +22936,7 @@
                 ],
                 "summary": "Remove um registro de cbo",
                 "description": "Remove um registro de cbo",
-                "operationId": "delete_ProfissionalCbo",
+                "operationId": "delete_ProfissionalCbo2",
                 "requestBody": {
                     "content": {
                         "application/json": {
@@ -22975,7 +22975,7 @@
                 ],
                 "summary": "Atualiza um registro de cbo parcialmente",
                 "description": "Atualiza um registro de cbo parcialmente",
-                "operationId": "patch_ProfissionalCbo",
+                "operationId": "patch_ProfissionalCbo2",
                 "requestBody": {
                     "content": {
                         "application/json": {
@@ -32995,7 +32995,7 @@
                 ],
                 "summary": "Cria um registo de produtor",
                 "description": "Cria um registro de produtor",
-                "operationId": "post_Produtor",
+                "operationId": "post_Produtor2",
                 "requestBody": {
                     "content": {
                         "application/json": {
@@ -33034,7 +33034,7 @@
                 ],
                 "summary": "Remove um registro de produtor",
                 "description": "Remove um registro de produtor",
-                "operationId": "delete_Produtor",
+                "operationId": "delete_Produtor2",
                 "requestBody": {
                     "content": {
                         "application/json": {
@@ -33073,7 +33073,7 @@
                 ],
                 "summary": "Atualiza um registro de produtor parcialmente",
                 "description": "Atualiza um registro de produtor parcialmente",
-                "operationId": "patch_Produtor",
+                "operationId": "patch_Produtor2",
                 "requestBody": {
                     "content": {
                         "application/json": {
